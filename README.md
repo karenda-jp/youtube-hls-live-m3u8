@@ -12,7 +12,7 @@ This test may end without notice.
 ## https://hls.chew.jp/youtube/?channel=@weathernews
 
 ### or  if video id offer
-
+### If there are multiple live streams, specify the video ID.
 ## https://hls.chew.jp/youtube/?video=coYw-eVU0Ks
 
 ### https://hls.chew.jp/youtube/?channel=
