@@ -5,6 +5,9 @@ Demo video ---> https://www.youtube.com/watch?v=PZouwE_45x4
 this page is tested.
 This test may end without notice.
 
+Redirects to an HLS streaming feed of a YouTube video,
+responding with a "302 Found" status code if successful.
+
 ## hou to use. live channel ID
 ### ex..japan ウェザーニュース
 ## https://hls.chew.jp/youtube/?channel=UCNsidkYpIAQ4QaufptQBPHQ
