@@ -21,6 +21,8 @@ This test may end without notice.
 ### https://hls.chew.jp/youtube/?channel=
 ### https://hls.chew.jp/youtube/?video=
 
+If there are multiple live streams, choose the one with the most viewers.
+
 Existing issues
 Playback may not start.
 Frequent shudders occur.
