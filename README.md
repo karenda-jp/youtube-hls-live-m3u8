@@ -1,5 +1,7 @@
 Demo video ---> https://www.youtube.com/watch?v=PZouwE_45x4
 
+**複数のライブ配信を行っている系の場合が調子悪い気がする**
+
 # youtube-hls-live-m3u8
 
 this page is tested.
