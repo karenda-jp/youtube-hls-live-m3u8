@@ -11,8 +11,9 @@ This test may end without notice.
 
 Redirects to an HLS streaming feed of a YouTube video,
 responding with a "302 Found" status code if successful.
+If not, return "404".
 
-## hou to use. live channel ID
+## how to use. live channel ID
 ### ex..japan ONE PIECE (Youtube)
 ## https://hls.chew.jp/youtube/?channel=UCdAHaWcKdpbT5XkN2Er6BUQ
 
