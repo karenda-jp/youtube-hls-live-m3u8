@@ -1,6 +1,6 @@
 Demo video ---> https://www.youtube.com/watch?v=PZouwE_45x4
 
-**複数のライブ配信を行っている系の場合が調子悪い気がする**
+**複数のライブ配信を行っているCHの場合は調子悪い気がする(クルクル回る)**
 
 # youtube-hls-live-m3u8
 
@@ -11,17 +11,17 @@ Redirects to an HLS streaming feed of a YouTube video,
 responding with a "302 Found" status code if successful.
 
 ## hou to use. live channel ID
-### ex..japan ウェザーニュース
-## https://hls.chew.jp/youtube/?channel=UCNsidkYpIAQ4QaufptQBPHQ
+### ex..japan ONE PIECE (Youtube)
+## https://hls.chew.jp/youtube/?channel=UCdAHaWcKdpbT5XkN2Er6BUQ
 
 ### or first "@" ID
 
-## https://hls.chew.jp/youtube/?channel=@weathernews
+## https://hls.chew.jp/youtube/?channel=@onepieceofficial
 
 ### or  if video id offer
 ### If there are multiple live streams, specify the video ID.
-### ex..japan ANNnewsCH JapaNews24
-## https://hls.chew.jp/youtube/?video=coYw-eVU0Ks
+### ex..japan avex 24/7 Music Live (Youtube)
+## https://hls.chew.jp/youtube/?video=tr77RbnfYIU
 
 ### https://hls.chew.jp/youtube/?channel=
 ### https://hls.chew.jp/youtube/?video=
