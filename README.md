@@ -2,6 +2,8 @@ Demo video ---> https://www.youtube.com/watch?v=PZouwE_45x4
 
 **複数のライブ配信を行っているCHの場合は調子悪い気がする(クルクル回る)**
 
+**体感で3秒以内に再生できない場合かな?? "I guess it's when you can't play it within 3 seconds? "**
+
 # youtube-hls-live-m3u8
 
 this page is tested.
