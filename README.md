@@ -1,6 +1,6 @@
 Demo video ---> https://www.youtube.com/watch?v=PZouwE_45x4
 
-**複数のライブ配信を行っているCHの場合は調子悪い気がする(クルクル回る)**
+**複数のライブ配信を行っているCHの場合は調子悪い気がする(クルクル回る) "I feel like it's not working properly when there are multiple live streams on the channel (it spins around)"**
 
 **体感で5秒以内に再生できない場合かな?? "I guess it's when you can't play it within 5 seconds? "**
 
