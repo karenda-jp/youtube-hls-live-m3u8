@@ -4,6 +4,8 @@ Demo video ---> https://www.youtube.com/watch?v=PZouwE_45x4
 
 **体感で5秒以内に再生できない場合かな?? "I guess it's when you can't play it within 5 seconds? "**
 
+**日本のIPにてアクセスする為、動画に設定されたカントリーブロックは突破出来ません! "Viewing country restrictions are unavoidable"**
+
 # youtube-hls-live-m3u8
 
 this page is tested.
