@@ -5,6 +5,8 @@ Demo video ---> https://www.youtube.com/watch?v=PZouwE_45x4
 **体感で5秒以内に再生できない場合かな?? "I guess it's when you can't play it within 5 seconds? "**
 
 **日本のIPにてアクセスする為、動画に設定されたカントリーブロックは突破出来ません! "Viewing country restrictions are unavoidable"**
+### Country restrictions are set by the channel hosting the live broadcast.
+### "24/7" to  "404 error" is JP access blockd.
 
 # youtube-hls-live-m3u8
 
@@ -16,7 +18,7 @@ responding with a "302 Found" status code if successful.
 If not, return "404".
 
 ## how to use. live channel ID
-### ex..japan ONE PIECE (Youtube)
+### ex..japan ONE PIECE (Youtube)　　↓ JP access ONLY.
 ## https://hls.chew.jp/youtube/?channel=UCdAHaWcKdpbT5XkN2Er6BUQ
 
 ### or first "@" ID
